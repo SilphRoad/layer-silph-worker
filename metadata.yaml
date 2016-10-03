@@ -1,0 +1,9 @@
+name: silph-worker
+summary: The Silph Road worker
+maintainers:
+ - Marco Ceppi <marco@ceppi.net>
+description: |
+  It does background jobs
+requires:
+  database:
+    interface: mysql-shared

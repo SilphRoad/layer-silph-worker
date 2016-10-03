@@ -1,0 +1,4 @@
+includes:
+ - 'interface:mysql-shared'
+ - 'layer:silph-web'
+repo: https://github.com/silph-io/layer-silph-worker
